@@ -1,0 +1,14 @@
+{
+  "name": "map-grid",
+  "version": "1.0.0",
+  "description": "tests again",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K",
+  "license": "ISC",
+  "dependencies": {
+    "mapbox-gl": "^2.3.0"
+  }
+}
